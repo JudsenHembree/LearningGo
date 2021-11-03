@@ -45,6 +45,8 @@ func main() {
 	var password string= os.Args[2]
 	users = make(map[string]string)
 	users["Judsen"]="8888"
+	users["Seven"]="7777"
+
 	if(len(os.Args)!=3){
 		fmt.Println("Usage: [username] [password]")
 		return
