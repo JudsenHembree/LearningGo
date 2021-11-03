@@ -1,0 +1,2 @@
+# LearningGo
+Teaching myself go
