@@ -6,4 +6,5 @@ import "multifile/text"
 
 func main(){
 	fmt.Println(text.Y)
+	text.Hell()
 }
